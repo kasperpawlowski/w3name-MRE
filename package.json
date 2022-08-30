@@ -1,0 +1,23 @@
+{
+  "name": "w3name-mre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperpawlowski/w3name-MRE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasperpawlowski/w3name-MRE/issues"
+  },
+  "homepage": "https://github.com/kasperpawlowski/w3name-MRE#readme",
+  "dependencies": {
+    "w3name": "^1.0.4"
+  }
+}
